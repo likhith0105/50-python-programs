@@ -1,1 +1,1 @@
-This repository contains my Python practice exercises, covering a variety of fundamental and intermediate programming concepts.# practice-on-python-4
+50 Simple Python Programs for Absolute Beginners
